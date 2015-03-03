@@ -1,0 +1,6 @@
+c:\users\brush\documents\visual studio 2013\Projects\ChaChaBlackJackCSharp\ChaChaBlackJackCSharp\bin\Debug\ChaChaBlackJackCSharp.exe.config
+C:\Users\Brush\Documents\Visual Studio 2013\Projects\ChaChaBlackJackCSharp\ChaChaBlackJackCSharp\obj\Debug\ChaChaBlackJackCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Brush\Documents\Visual Studio 2013\Projects\ChaChaBlackJackCSharp\ChaChaBlackJackCSharp\bin\Debug\ChaChaBlackJackCSharp.exe
+C:\Users\Brush\Documents\Visual Studio 2013\Projects\ChaChaBlackJackCSharp\ChaChaBlackJackCSharp\bin\Debug\ChaChaBlackJackCSharp.pdb
+C:\Users\Brush\Documents\Visual Studio 2013\Projects\ChaChaBlackJackCSharp\ChaChaBlackJackCSharp\obj\Debug\ChaChaBlackJackCSharp.exe
+C:\Users\Brush\Documents\Visual Studio 2013\Projects\ChaChaBlackJackCSharp\ChaChaBlackJackCSharp\obj\Debug\ChaChaBlackJackCSharp.pdb
